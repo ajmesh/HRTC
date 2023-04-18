@@ -1,1077 +1,1293 @@
 ﻿[
    {
-      "routeNo": "888",
-      "station": "NEHRIAN",
-      "departure": "00:10:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "DEHRA",
-      "departure": "00:15:00"
-   },
-   {
-      "routeNo": "647",
-      "station": "JAHU DEEM",
-      "departure": "00:30:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "BANGANA",
-      "departure": "00:30:00"
-   },
-   {
-      "routeNo": "1238",
-      "station": "KANGRA",
-      "departure": "00:30:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "JAWALAJI",
-      "departure": "00:30:00"
-   },
-   {
-      "routeNo": "1238",
-      "station": "NAGROTA BAGWAN",
-      "departure": "00:40:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "BANGANA",
-      "departure": "00:45:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "LATHAINI",
-      "departure": "00:50:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "MEHRE",
-      "departure": "01:00:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "RANITAL",
-      "departure": "01:00:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "JAWALAJI",
-      "departure": "01:00:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "BHARWAIN",
-      "departure": "01:00:00"
+      "routeNo": "422",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "05:30:00"
    },
    {
       "routeNo": "422",
-      "station": "LADROUR",
-      "departure": "01:10:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "MEHRE",
-      "departure": "01:15:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "NADUAN",
-      "departure": "01:25:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "RANITAL",
-      "departure": "01:30:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "DEHRA",
-      "departure": "01:30:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "MIBARKPUR",
-      "departure": "01:30:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "KANGRA",
-      "departure": "01:45:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "SALOUNI",
-      "departure": "01:45:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "RANGAS",
-      "departure": "01:50:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "BHOTA",
-      "departure": "02:00:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "N.BAGWAN",
-      "departure": "02:00:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "BHARWAIN",
-      "departure": "02:00:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "PAROUR",
-      "departure": "02:15:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "BHOTA",
-      "departure": "02:15:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "HAMIRPUR",
-      "departure": "02:30:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "HAMIRPUR",
-      "departure": "02:30:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "PALAMPUR",
-      "departure": "02:40:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "LADROUR",
-      "departure": "02:45:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "PALAMPUR",
-      "departure": "02:50:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "NEHARANPUKHAR",
-      "departure": "02:50:00"
-   },
-   {
-      "routeNo": "647",
-      "station": "MANDI",
-      "departure": "03:00:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "TOUNIDEVI",
-      "departure": "03:00:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "KANGRA",
-      "departure": "03:00:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "DEHRA",
-      "departure": "03:00:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "JAHU",
-      "departure": "03:15:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "BAIJNATH",
-      "departure": "03:20:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "AVAHDEVI",
-      "departure": "03:30:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "BAIJNATH",
-      "departure": "03:30:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "NAGROTA",
-      "departure": "03:40:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "PAROUR",
-      "departure": "03:50:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "JOGINDERNAGAR",
-      "departure": "04:00:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "SARKAGHAT",
-      "departure": "04:00:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "KANGRA",
-      "departure": "04:00:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "LUDHIANA",
-      "departure": "04:15:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "PALAMPUR",
-      "departure": "04:15:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "GAGGAL",
-      "departure": "04:20:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "SARKAGHAT",
-      "departure": "04:30:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "BEAS",
-      "departure": "04:30:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "DHARAMSHALA",
-      "departure": "04:50:00"
-   },
-   {
-      "routeNo": "647",
-      "station": "KULLU",
-      "departure": "05:00:00"
-   },
-   {
-      "routeNo": "669",
-      "station": "JALLANDHAR",
-      "departure": "05:30:00"
+      "Sr": "2",
+      "station": "Jallandhar",
+      "Deaprture": "07:30:00"
    },
    {
       "routeNo": "422",
-      "station": "AMRITSAR",
-      "departure": "05:30:00"
-   },
-   {
-      "routeNo": "646",
-      "station": "LUDHIANA",
-      "departure": "06:10:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "JALLANDHAR",
-      "departure": "06:10:00"
-   },
-   {
-      "routeNo": "647",
-      "station": "MANALI",
-      "departure": "06:30:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "HOSHIARPUR",
-      "departure": "06:30:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "AMRITSAR",
-      "departure": "06:36:00"
-   },
-   {
-      "routeNo": "669",
-      "station": "HOSHIARPUR",
-      "departure": "07:00:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "AMRITSAR",
-      "departure": "07:00:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "HOSHIARPUR",
-      "departure": "07:15:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "KHALCHIAN",
-      "departure": "07:30:00"
+      "Sr": "3",
+      "station": "Hoshiarpur",
+      "Deaprture": "09:07:00"
    },
    {
       "routeNo": "422",
-      "station": "JALLANDHAR",
-      "departure": "07:30:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "RAIA",
-      "departure": "07:35:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "AMRITSAR",
-      "departure": "07:40:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "DHILWAN",
-      "departure": "07:45:00"
-   },
-   {
-      "routeNo": "1464",
-      "station": "AMRITSAR",
-      "departure": "07:50:00"
-   },
-   {
-      "routeNo": "635",
-      "station": "AMRITSAR",
-      "departure": "08:15:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "BIAS",
-      "departure": "08:20:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "MUBARKPUR",
-      "departure": "08:30:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "AMRITSAR",
-      "departure": "08:30:00"
-   },
-   {
-      "routeNo": "646",
-      "station": "HOSHIARPUR",
-      "departure": "08:50:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "JALLANDHAR",
-      "departure": "08:50:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "BHARWAIN",
-      "departure": "09:00:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "JALLANDHAR",
-      "departure": "09:05:00"
-   },
-   {
-      "routeNo": "422",
-      "station": "HOSHIARPUR",
-      "departure": "09:07:00"
-   },
-   {
-      "routeNo": "1461",
-      "station": "AMRITSAR",
-      "departure": "09:20:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "DHILWAN",
-      "departure": "09:20:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "UNA",
-      "departure": "09:24:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "DALIYARA",
-      "departure": "09:30:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "NEHRAN PUKHAR",
-      "departure": "09:40:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "JALLANDHAR",
-      "departure": "09:40:00"
-   },
-   {
-      "routeNo": "669",
-      "station": "NADUAN",
-      "departure": "09:45:00"
-   },
-   {
-      "routeNo": "1464",
-      "station": "JALLANDHAR",
-      "departure": "09:45:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "DEHRA",
-      "departure": "10:00:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "HOSHIARPUR",
-      "departure": "10:07:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "BANKHANDI",
-      "departure": "10:15:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "HOSHIARPUR",
-      "departure": "10:19:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "BANGANA",
-      "departure": "10:24:00"
-   },
-   {
-      "routeNo": "635",
-      "station": "JALLANDHAR",
-      "departure": "10:30:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "KANGRA",
-      "departure": "10:30:00"
-   },
-   {
-      "routeNo": "422",
-      "station": "UNA",
-      "departure": "10:40:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "JALLANDHAR",
-      "departure": "10:50:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "NAGROTA BAGWAN",
-      "departure": "11:00:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "JALLANDHAR",
-      "departure": "11:00:00"
-   },
-   {
-      "routeNo": "1464",
-      "station": "HOSHIARPUR",
-      "departure": "11:10:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "LATHIYANI",
-      "departure": "11:20:00"
-   },
-   {
-      "routeNo": "1461",
-      "station": "JALLANDHAR",
-      "departure": "11:23:00"
-   },
-   {
-      "routeNo": "669",
-      "station": "HAMIRPUR",
-      "departure": "11:30:00"
-   },
-   {
-      "routeNo": "679",
-      "station": "JALLANDHAR",
-      "departure": "11:30:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "SHAHTALAI",
-      "departure": "11:30:00"
-   },
-   {
-      "routeNo": "646",
-      "station": "NADUAN",
-      "departure": "11:40:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "UNA",
-      "departure": "11:50:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "KUTHAR",
-      "departure": "11:50:00"
-   },
-   {
-      "routeNo": "422",
-      "station": "MEHRE",
-      "departure": "12:00:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "PALAMPUR",
-      "departure": "12:05:00"
-   },
-   {
-      "routeNo": "635",
-      "station": "HOSHIARPUR",
-      "departure": "12:20:00"
-   },
-   {
-      "routeNo": "422",
-      "station": "SALOONI",
-      "departure": "12:20:00"
-   },
-   {
-      "routeNo": "1464",
-      "station": "MUBARKPUR",
-      "departure": "12:20:00"
-   },
-   {
-      "routeNo": "1241",
-      "station": "HOSHIARPUR",
-      "departure": "12:25:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "UNA",
-      "departure": "12:30:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "HOSHIARPUR",
-      "departure": "12:40:00"
-   },
-   {
-      "routeNo": "422",
-      "station": "BHOTA",
-      "departure": "12:45:00"
-   },
-   {
-      "routeNo": "646",
-      "station": "HAMIRPUR",
-      "departure": "12:50:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "DEHRA",
-      "departure": "13:00:00"
-   },
-   {
-      "routeNo": "1461",
-      "station": "HOSHIARPUR",
-      "departure": "13:10:00"
-   },
-   {
-      "routeNo": "679",
-      "station": "HOSHIARPUR",
-      "departure": "13:20:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "BARMANA",
-      "departure": "13:20:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "BAIJNATH",
-      "departure": "13:30:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "GAGRET",
-      "departure": "13:30:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "JAWALAJI",
-      "departure": "13:48:00"
-   },
-   {
-      "routeNo": "1820",
-      "station": "SUNDER NAGAR",
-      "departure": "14:00:00"
-   },
-   {
-      "routeNo": "1464",
-      "station": "DEHRA",
-      "departure": "14:10:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "RANITAL",
-      "departure": "14:20:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "AMB",
-      "departure": "14:20:00"
-   },
-   {
-      "routeNo": "1461",
-      "station": "UNA",
-      "departure": "14:30:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "JOGINDERNAGAR",
-      "departure": "14:30:00"
-   },
-   {
-      "routeNo": "638",
-      "station": "HOSHIARPUR",
-      "departure": "14:38:00"
-   },
-   {
-      "routeNo": "679",
-      "station": "UNA",
-      "departure": "15:00:00"
-   },
-   {
-      "routeNo": "1240",
-      "station": "KATWALI",
-      "departure": "15:00:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "BHOTA",
-      "departure": "15:00:00"
-   },
-   {
-      "routeNo": "635",
-      "station": "NADUAN",
-      "departure": "15:05:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "KANGRA",
-      "departure": "15:16:00"
-   },
-   {
-      "routeNo": "422",
-      "station": "JAHU",
-      "departure": "15:30:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "LADROUR",
-      "departure": "15:40:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "DHARAMPUR",
-      "departure": "15:40:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "NADAUN",
-      "departure": "15:50:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "N.BAGWAN",
-      "departure": "15:56:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "MALAN",
-      "departure": "16:00:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "SHAHTALAI",
-      "departure": "16:00:00"
-   },
-   {
-      "routeNo": "635",
-      "station": "HAMIRPUR",
-      "departure": "16:05:00"
-   },
-   {
-      "routeNo": "647",
-      "station": "JALLANDHAR",
-      "departure": "16:10:00"
-   },
-   {
-      "routeNo": "1239",
-      "station": "CHAMUNDA",
-      "departure": "16:20:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "JAHU",
-      "departure": "16:20:00"
-   },
-   {
-      "routeNo": "679",
-      "station": "MEHRE",
-      "departure": "16:30:00"
-   },
-   {
-      "routeNo": "1238",
-      "station": "AMRITSAR",
-      "departure": "16:45:00"
-   },
-   {
-      "routeNo": "422",
-      "station": "GHUMARWIN",
-      "departure": "17:00:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "SUJANPUR HP",
-      "departure": "17:15:00"
-   },
-   {
-      "routeNo": "638",
-      "station": "NADUAN",
-      "departure": "17:20:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "SARKAGHAT",
-      "departure": "17:20:00"
-   },
-   {
-      "routeNo": "679",
-      "station": "GALORE",
-      "departure": "18:00:00"
-   },
-   {
-      "routeNo": "647",
-      "station": "HOSHIARPUR",
-      "departure": "18:00:00"
-   },
-   {
-      "routeNo": "658",
-      "station": "BILASPUR",
-      "departure": "18:00:00"
-   },
-   {
-      "routeNo": "638",
-      "station": "HAMIRPUR",
-      "departure": "18:20:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "LUDHIANA",
-      "departure": "18:30:00"
-   },
-   {
-      "routeNo": "6740",
-      "station": "UHAL",
-      "departure": "18:30:00"
-   },
-   {
-      "routeNo": "679",
-      "station": "HAMIRPUR",
-      "departure": "18:40:00"
-   },
-   {
-      "routeNo": "1238",
-      "station": "JALLANDHAR",
-      "departure": "19:19:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "AMRITSAR",
-      "departure": "19:35:00"
-   },
-   {
-      "routeNo": "898",
-      "station": "JOGINDERNAGAR",
-      "departure": "19:40:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "AMRITSAR",
-      "departure": "19:40:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "HOSHIARPUR",
-      "departure": "20:15:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "LUDHIANA",
-      "departure": "20:20:00"
-   },
-   {
-      "routeNo": "1238",
-      "station": "HOSHIARPUR",
-      "departure": "20:20:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "LUDHIANA",
-      "departure": "20:20:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "BIAS",
-      "departure": "20:20:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "LUDHIANA",
-      "departure": "20:40:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "BYAS PB",
-      "departure": "20:50:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "JALLANDHAR",
-      "departure": "21:10:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "GAGRET",
-      "departure": "21:30:00"
-   },
-   {
-      "routeNo": "1238",
-      "station": "BHARWAIN",
-      "departure": "21:50:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "HOSHIARPUR",
-      "departure": "22:00:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "JALLANDHAR",
-      "departure": "22:00:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "HOSHIARPUR",
-      "departure": "22:15:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "HOSHIARPUR",
-      "departure": "22:30:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "HOSHIARPUR",
-      "departure": "22:30:00"
-   },
-   {
-      "routeNo": "1238",
-      "station": "DEHRA",
-      "departure": "22:35:00"
-   },
-   {
-      "routeNo": "647",
-      "station": "HAMIRPUR",
-      "departure": "23:00:00"
-   },
-   {
-      "routeNo": "947",
-      "station": "HOSHIARPUR",
-      "departure": "23:00:00"
-   },
-   {
-      "routeNo": "491",
-      "station": "UNA",
-      "departure": "23:30:00"
-   },
-   {
-      "routeNo": "6606",
-      "station": "DEHRA",
-      "departure": "23:30:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "BHARWAIN",
-      "departure": "23:40:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "MUBARKPUR",
-      "departure": "23:45:00"
-   },
-   {
-      "routeNo": "1171",
-      "station": "NEHRAN PUKHAR",
-      "departure": "23:50:00"
-   },
-   {
-      "routeNo": "888",
-      "station": "AMB",
-      "departure": "23:59:00"
-   },
-   {
-      "routeNo": "889",
-      "station": "CHALARA",
-      "departure": "23:59:00"
-   },
-   {
-      "routeNo": "6743",
-      "station": "PB BORDER",
-      "Deaprture": "10:00:00"
-   },
-   {
-      "routeNo": "6743",
-      "station": "GAGRET",
-      "Deaprture": "10:30:00"
-   },
-   {
-      "routeNo": "6743",
-      "station": "MUBARKPUR",
+      "Sr": "4",
+      "station": "Una",
       "Deaprture": "10:40:00"
    },
    {
-      "routeNo": "6743",
-      "station": "AMB",
-      "Deaprture": "11:00:00"
-   },
-   {
-      "routeNo": "6743",
-      "station": "NEHRIAN",
-      "Deaprture": "11:10:00"
-   },
-   {
-      "routeNo": "6743",
-      "station": "JAWAR",
-      "Deaprture": "11:50:00"
-   },
-   {
-      "routeNo": "6743",
-      "station": "KALOHA",
+      "routeNo": "422",
+      "Sr": "5",
+      "station": "Mehre",
       "Deaprture": "12:00:00"
    },
    {
-      "routeNo": "6743",
-      "station": "RAKKAR",
-      "Deaprture": "12:10:00"
-   },
-   {
-      "routeNo": "6743",
-      "station": "CHAMUKHA",
+      "routeNo": "422",
+      "Sr": "6",
+      "station": "Salooni",
       "Deaprture": "12:20:00"
    },
    {
-      "routeNo": "6743",
-      "station": "NADAUN",
+      "routeNo": "422",
+      "Sr": "7",
+      "station": "Bhota",
+      "Deaprture": "12:45:00"
+   },
+   {
+      "routeNo": "422",
+      "Sr": "8",
+      "station": "Ladrour",
+      "Deaprture": "01:10:00"
+   },
+   {
+      "routeNo": "422",
+      "Sr": "9",
+      "station": "Jahu",
+      "Deaprture": "15:30:00"
+   },
+   {
+      "routeNo": "422",
+      "Sr": "10",
+      "station": "Ghumarwin",
+      "Deaprture": "17:00:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "1",
+      "station": "Ludhiana",
+      "Deaprture": "20:20:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "22:15:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "3",
+      "station": "Una",
+      "Deaprture": "23:30:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "4",
+      "station": "Bangana",
+      "Deaprture": "00:30:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "5",
+      "station": "Lathaini",
+      "Deaprture": "00:50:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "6",
+      "station": "Mehre",
+      "Deaprture": "01:00:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "7",
+      "station": "Bhota",
+      "Deaprture": "02:00:00"
+   },
+   {
+      "routeNo": "491",
+      "Sr": "8",
+      "station": "Hamirpur",
+      "Deaprture": "02:30:00"
+   },
+   {
+      "routeNo": "635",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "08:15:00"
+   },
+   {
+      "routeNo": "635",
+      "Sr": "2",
+      "station": "Jallandhar",
+      "Deaprture": "10:30:00"
+   },
+   {
+      "routeNo": "635",
+      "Sr": "3",
+      "station": "Hoshiarpur",
+      "Deaprture": "12:20:00"
+   },
+   {
+      "routeNo": "635",
+      "Sr": "4",
+      "station": "Naduan",
+      "Deaprture": "15:05:00"
+   },
+   {
+      "routeNo": "635",
+      "Sr": "5",
+      "station": "Hamirpur",
+      "Deaprture": "16:05:00"
+   },
+   {
+      "routeNo": "638",
+      "Sr": "1",
+      "station": "Hoshiarpur",
+      "Deaprture": "14:38:00"
+   },
+   {
+      "routeNo": "638",
+      "Sr": "2",
+      "station": "Naduan",
+      "Deaprture": "17:20:00"
+   },
+   {
+      "routeNo": "638",
+      "Sr": "3",
+      "station": "Hamirpur",
+      "Deaprture": "18:20:00"
+   },
+   {
+      "routeNo": "646",
+      "Sr": "1",
+      "station": "Ludhiana",
+      "Deaprture": "06:10:00"
+   },
+   {
+      "routeNo": "646",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "08:50:00"
+   },
+   {
+      "routeNo": "646",
+      "Sr": "3",
+      "station": "Naduan",
+      "Deaprture": "11:40:00"
+   },
+   {
+      "routeNo": "646",
+      "Sr": "4",
+      "station": "Hamirpur",
       "Deaprture": "12:50:00"
    },
    {
-      "routeNo": "6743",
-      "station": "SERA ROAD",
-      "Deaprture": "13:15:00"
+      "routeNo": "647",
+      "Sr": "1",
+      "station": "Jallandhar",
+      "Deaprture": "16:10:00"
    },
    {
-      "routeNo": "6743",
-      "station": "JASSO",
-      "Deaprture": "13:25:00"
+      "routeNo": "647",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "18:00:00"
    },
    {
-      "routeNo": "6743",
-      "station": "DHANETA",
-      "Deaprture": "13:35:00"
+      "routeNo": "647",
+      "Sr": "3",
+      "station": "Hamirpur",
+      "Deaprture": "23:00:00"
    },
    {
-      "routeNo": "6745",
-      "station": "PB BORDER",
-      "Deaprture": "12:10:00"
+      "routeNo": "647",
+      "Sr": "4",
+      "station": "Jahu Deem",
+      "Deaprture": "00:30:00"
    },
    {
-      "routeNo": "6745",
-      "station": "BAURI",
+      "routeNo": "647",
+      "Sr": "5",
+      "station": "Mandi",
+      "Deaprture": "03:00:00"
+   },
+   {
+      "routeNo": "647",
+      "Sr": "6",
+      "station": "Kullu",
+      "Deaprture": "05:00:00"
+   },
+   {
+      "routeNo": "647",
+      "Sr": "7",
+      "station": "Manali",
+      "Deaprture": "06:30:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "07:00:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "2",
+      "station": "Khalchian",
+      "Deaprture": "07:30:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "3",
+      "station": "Raia",
+      "Deaprture": "07:35:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "4",
+      "station": "Dhilwan",
+      "Deaprture": "07:45:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "5",
+      "station": "Jallandhar",
+      "Deaprture": "09:05:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "6",
+      "station": "Hoshiarpur",
+      "Deaprture": "10:19:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "7",
+      "station": "Una",
+      "Deaprture": "11:50:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "8",
+      "station": "Shahtalai",
+      "Deaprture": "16:00:00"
+   },
+   {
+      "routeNo": "658",
+      "Sr": "9",
+      "station": "Bilaspur",
+      "Deaprture": "18:00:00"
+   },
+   {
+      "routeNo": "669",
+      "Sr": "1",
+      "station": "Jallandhar",
+      "Deaprture": "05:30:00"
+   },
+   {
+      "routeNo": "669",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "07:00:00"
+   },
+   {
+      "routeNo": "669",
+      "Sr": "3",
+      "station": "Naduan",
+      "Deaprture": "09:45:00"
+   },
+   {
+      "routeNo": "669",
+      "Sr": "4",
+      "station": "Hamirpur",
+      "Deaprture": "11:30:00"
+   },
+   {
+      "routeNo": "679",
+      "Sr": "1",
+      "station": "Jallandhar",
+      "Deaprture": "11:30:00"
+   },
+   {
+      "routeNo": "679",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "13:20:00"
+   },
+   {
+      "routeNo": "679",
+      "Sr": "3",
+      "station": "Una",
+      "Deaprture": "15:00:00"
+   },
+   {
+      "routeNo": "679",
+      "Sr": "4",
+      "station": "Mehre",
+      "Deaprture": "16:30:00"
+   },
+   {
+      "routeNo": "679",
+      "Sr": "5",
+      "station": "Galore",
+      "Deaprture": "18:00:00"
+   },
+   {
+      "routeNo": "679",
+      "Sr": "6",
+      "station": "Hamirpur",
+      "Deaprture": "18:40:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "1",
+      "station": "Ludhiana",
+      "Deaprture": "20:40:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "22:30:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "3",
+      "station": "Mubarkpur",
+      "Deaprture": "23:45:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "4",
+      "station": "Amb",
+      "Deaprture": "23:59:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "5",
+      "station": "Nehrian",
+      "Deaprture": "00:10:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "6",
+      "station": "Naduan",
+      "Deaprture": "01:25:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "7",
+      "station": "Rangas",
+      "Deaprture": "01:50:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "8",
+      "station": "Hamirpur",
+      "Deaprture": "02:30:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "9",
+      "station": "Tounidevi",
+      "Deaprture": "03:00:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "10",
+      "station": "Avahdevi",
+      "Deaprture": "03:30:00"
+   },
+   {
+      "routeNo": "888",
+      "Sr": "11",
+      "station": "Sarkaghat",
+      "Deaprture": "04:30:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "19:35:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "2",
+      "station": "Bias",
+      "Deaprture": "20:20:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "3",
+      "station": "Jallandhar",
+      "Deaprture": "21:10:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "4",
+      "station": "Hoshiarpur",
+      "Deaprture": "22:30:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "5",
+      "station": "Chalara",
+      "Deaprture": "23:59:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "6",
+      "station": "Bangana",
+      "Deaprture": "00:45:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "7",
+      "station": "Mehre",
+      "Deaprture": "01:15:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "8",
+      "station": "Salouni",
+      "Deaprture": "01:45:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "9",
+      "station": "Bhota",
+      "Deaprture": "02:15:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "10",
+      "station": "Ladrour",
+      "Deaprture": "02:45:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "11",
+      "station": "Jahu",
+      "Deaprture": "03:15:00"
+   },
+   {
+      "routeNo": "889",
+      "Sr": "12",
+      "station": "Sarkaghat",
+      "Deaprture": "04:00:00"
+   },
+   {
+      "routeNo": "898",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "07:40:00"
+   },
+   {
+      "routeNo": "898",
+      "Sr": "2",
+      "station": "Bias",
+      "Deaprture": "08:20:00"
+   },
+   {
+      "routeNo": "898",
+      "Sr": "3",
+      "station": "Jallandhar",
+      "Deaprture": "09:40:00"
+   },
+   {
+      "routeNo": "898",
+      "Sr": "4",
+      "station": "Una",
       "Deaprture": "12:30:00"
    },
    {
-      "routeNo": "6745",
-      "station": "GAGRET",
-      "Deaprture": "12:40:00"
+      "routeNo": "898",
+      "Sr": "5",
+      "station": "Bhota",
+      "Deaprture": "15:00:00"
    },
    {
-      "routeNo": "6745",
-      "station": "AMB",
-      "Deaprture": "13:25:00"
+      "routeNo": "898",
+      "Sr": "6",
+      "station": "Ladrour",
+      "Deaprture": "15:40:00"
    },
    {
-      "routeNo": "6745",
-      "station": "NADAUN",
+      "routeNo": "898",
+      "Sr": "7",
+      "station": "Jahu",
+      "Deaprture": "16:20:00"
+   },
+   {
+      "routeNo": "898",
+      "Sr": "8",
+      "station": "Sarkaghat",
+      "Deaprture": "17:20:00"
+   },
+   {
+      "routeNo": "898",
+      "Sr": "9",
+      "station": "Dharampur",
+      "Deaprture": "15:40:00"
+   },
+   {
+      "routeNo": "898",
+      "Sr": "10",
+      "station": "Jogindernagar",
+      "Deaprture": "19:40:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "19:40:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "2",
+      "station": "Byas Pb",
+      "Deaprture": "20:50:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "3",
+      "station": "Jallandhar",
+      "Deaprture": "22:00:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "4",
+      "station": "Hoshiarpur",
+      "Deaprture": "23:00:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "5",
+      "station": "Bharwain",
+      "Deaprture": "01:00:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "6",
+      "station": "Dehra",
+      "Deaprture": "01:30:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "7",
+      "station": "Kangra",
+      "Deaprture": "03:00:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "8",
+      "station": "Nagrota",
+      "Deaprture": "03:40:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "9",
+      "station": "Parour",
+      "Deaprture": "03:50:00"
+   },
+   {
+      "routeNo": "947",
+      "Sr": "10",
+      "station": "Palampur",
+      "Deaprture": "04:15:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "1",
+      "station": "Ludhiana",
+      "Deaprture": "20:20:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "22:00:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "3",
+      "station": "Bharwain",
+      "Deaprture": "23:40:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "4",
+      "station": "Nehran Pukhar",
+      "Deaprture": "23:50:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "5",
+      "station": "Dehra",
+      "Deaprture": "00:15:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "6",
+      "station": "Jawalaji",
+      "Deaprture": "01:00:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "7",
+      "station": "Ranital",
+      "Deaprture": "01:30:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "8",
+      "station": "Kangra",
+      "Deaprture": "01:45:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "9",
+      "station": "Parour",
+      "Deaprture": "02:15:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "10",
+      "station": "Palampur",
+      "Deaprture": "02:50:00"
+   },
+   {
+      "routeNo": "1171",
+      "Sr": "11",
+      "station": "Baijnath",
+      "Deaprture": "03:30:00"
+   },
+   {
+      "routeNo": "1238",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "16:45:00"
+   },
+   {
+      "routeNo": "1238",
+      "Sr": "2",
+      "station": "Jallandhar",
+      "Deaprture": "19:19:00"
+   },
+   {
+      "routeNo": "1238",
+      "Sr": "3",
+      "station": "Hoshiarpur",
+      "Deaprture": "20:20:00"
+   },
+   {
+      "routeNo": "1238",
+      "Sr": "4",
+      "station": "Bharwain",
+      "Deaprture": "21:50:00"
+   },
+   {
+      "routeNo": "1238",
+      "Sr": "5",
+      "station": "Dehra",
+      "Deaprture": "22:35:00"
+   },
+   {
+      "routeNo": "1238",
+      "Sr": "6",
+      "station": "Kangra",
+      "Deaprture": "00:30:00"
+   },
+   {
+      "routeNo": "1238",
+      "Sr": "7",
+      "station": "Nagrota Bagwan",
+      "Deaprture": "00:40:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "06:36:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "2",
+      "station": "Jallandhar",
+      "Deaprture": "08:50:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "3",
+      "station": "Hoshiarpur",
+      "Deaprture": "10:07:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "4",
+      "station": "Dehra",
+      "Deaprture": "13:00:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "5",
+      "station": "Jawalaji",
+      "Deaprture": "13:48:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "6",
+      "station": "Ranital",
+      "Deaprture": "14:20:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "7",
+      "station": "Kangra",
+      "Deaprture": "15:16:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "8",
+      "station": "N.Bagwan",
+      "Deaprture": "15:56:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "9",
+      "station": "Malan",
+      "Deaprture": "16:00:00"
+   },
+   {
+      "routeNo": "1239",
+      "Sr": "10",
+      "station": "Chamunda",
+      "Deaprture": "16:20:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "1",
+      "station": "Ludhiana",
+      "Deaprture": "04:15:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "06:30:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "3",
+      "station": "Mubarkpur",
+      "Deaprture": "08:30:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "4",
+      "station": "Bharwain",
+      "Deaprture": "09:00:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "5",
+      "station": "Daliyara",
+      "Deaprture": "09:30:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "6",
+      "station": "Nehran Pukhar",
+      "Deaprture": "09:40:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "7",
+      "station": "Dehra",
+      "Deaprture": "10:00:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "8",
+      "station": "Bankhandi",
+      "Deaprture": "10:15:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "9",
+      "station": "Kangra",
+      "Deaprture": "10:30:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "10",
+      "station": "Nagrota Bagwan",
+      "Deaprture": "11:00:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "11",
+      "station": "Palampur",
+      "Deaprture": "12:05:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "12",
+      "station": "Baijnath",
+      "Deaprture": "13:30:00"
+   },
+   {
+      "routeNo": "1240",
+      "Sr": "13",
+      "station": "Jogindernagar",
       "Deaprture": "14:30:00"
    },
    {
-      "routeNo": "6745",
-      "station": "KANGOO",
-      "Deaprture": "15:15:00"
+      "routeNo": "1240",
+      "Sr": "14",
+      "station": "Katwali",
+      "Deaprture": "15:00:00"
    },
    {
-      "routeNo": "6745",
-      "station": "SALOUNI",
-      "Deaprture": "15:55:00"
+      "routeNo": "1241",
+      "Sr": "1",
+      "station": "Jallandhar",
+      "Deaprture": "10:50:00"
    },
    {
-      "routeNo": "6745",
-      "station": "DHANED",
+      "routeNo": "1241",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "12:25:00"
+   },
+   {
+      "routeNo": "1241",
+      "Sr": "3",
+      "station": "Mibarkpur",
+      "Deaprture": "01:30:00"
+   },
+   {
+      "routeNo": "1241",
+      "Sr": "4",
+      "station": "Bharwain",
+      "Deaprture": "02:00:00"
+   },
+   {
+      "routeNo": "1241",
+      "Sr": "5",
+      "station": "Neharanpukhar",
+      "Deaprture": "02:50:00"
+   },
+   {
+      "routeNo": "1241",
+      "Sr": "6",
+      "station": "Dehra",
+      "Deaprture": "03:00:00"
+   },
+   {
+      "routeNo": "1241",
+      "Sr": "7",
+      "station": "Kangra",
+      "Deaprture": "04:00:00"
+   },
+   {
+      "routeNo": "1241",
+      "Sr": "8",
+      "station": "Gaggal",
+      "Deaprture": "04:20:00"
+   },
+   {
+      "routeNo": "1241",
+      "Sr": "9",
+      "station": "Dharamshala",
+      "Deaprture": "04:50:00"
+   },
+   {
+      "routeNo": "1461",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "09:20:00"
+   },
+   {
+      "routeNo": "1461",
+      "Sr": "2",
+      "station": "Jallandhar",
+      "Deaprture": "11:23:00"
+   },
+   {
+      "routeNo": "1461",
+      "Sr": "3",
+      "station": "Hoshiarpur",
+      "Deaprture": "13:10:00"
+   },
+   {
+      "routeNo": "1461",
+      "Sr": "4",
+      "station": "Una",
+      "Deaprture": "14:30:00"
+   },
+   {
+      "routeNo": "1464",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "07:50:00"
+   },
+   {
+      "routeNo": "1464",
+      "Sr": "2",
+      "station": "Jallandhar",
+      "Deaprture": "09:45:00"
+   },
+   {
+      "routeNo": "1464",
+      "Sr": "3",
+      "station": "Hoshiarpur",
+      "Deaprture": "11:10:00"
+   },
+   {
+      "routeNo": "1464",
+      "Sr": "4",
+      "station": "Mubarkpur",
+      "Deaprture": "12:20:00"
+   },
+   {
+      "routeNo": "1464",
+      "Sr": "5",
+      "station": "Dehra",
+      "Deaprture": "14:10:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "1",
+      "station": "Beas",
+      "Deaprture": "04:30:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "2",
+      "station": "Jallandhar",
+      "Deaprture": "06:10:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "3",
+      "station": "Hoshiarpur",
+      "Deaprture": "07:15:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "4",
+      "station": "Una",
+      "Deaprture": "09:24:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "5",
+      "station": "Bangana",
+      "Deaprture": "10:24:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "6",
+      "station": "Lathiyani",
+      "Deaprture": "11:20:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "7",
+      "station": "Shahtalai",
+      "Deaprture": "11:30:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "8",
+      "station": "Barmana",
+      "Deaprture": "13:20:00"
+   },
+   {
+      "routeNo": "1820",
+      "Sr": "9",
+      "station": "Sunder Nagar",
+      "Deaprture": "14:00:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "1",
+      "station": "Ludhiana",
+      "Deaprture": "18:30:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "2",
+      "station": "Hoshiarpur",
+      "Deaprture": "20:15:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "3",
+      "station": "Gagret",
+      "Deaprture": "21:30:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "4",
+      "station": "Dehra",
+      "Deaprture": "23:30:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "5",
+      "station": "Jawalaji",
+      "Deaprture": "00:30:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "6",
+      "station": "Ranital",
+      "Deaprture": "01:00:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "7",
+      "station": "N.Bagwan",
+      "Deaprture": "02:00:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "8",
+      "station": "Palampur",
+      "Deaprture": "02:40:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "9",
+      "station": "Baijnath",
+      "Deaprture": "03:20:00"
+   },
+   {
+      "routeNo": "6606",
+      "Sr": "10",
+      "station": "Jogindernagar",
+      "Deaprture": "04:00:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "1",
+      "station": "Amritsar",
+      "Deaprture": "08:30:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "2",
+      "station": "Dhilwan",
+      "Deaprture": "09:20:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "3",
+      "station": "Jallandhar",
+      "Deaprture": "11:00:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "4",
+      "station": "Kuthar",
+      "Deaprture": "11:50:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "5",
+      "station": "Hoshiarpur",
+      "Deaprture": "12:40:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "6",
+      "station": "Gagret",
+      "Deaprture": "13:30:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "7",
+      "station": "Amb",
+      "Deaprture": "14:20:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "8",
+      "station": "Nadaun",
+      "Deaprture": "15:50:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "9",
+      "station": "Sujanpur Hp",
+      "Deaprture": "17:15:00"
+   },
+   {
+      "routeNo": "6740",
+      "Sr": "10",
+      "station": "Uhal",
       "Deaprture": "18:30:00"
    },
    {
       "routeNo": "6741",
-      "station": "GAGRET",
-      "Deaprture": "14:50:00"
+      "Sr": "1",
+      "station": "Gagret",
+      "Deaprture": "'14:50:00"
    },
    {
       "routeNo": "6741",
-      "station": "AMB",
-      "Deaprture": "15:22:00"
+      "Sr": "2",
+      "station": "Amb",
+      "Deaprture": "'15:22:00"
    },
    {
       "routeNo": "6741",
-      "station": "NADAUN",
-      "Deaprture": "17:35:00"
+      "Sr": "3",
+      "station": "Nadaun",
+      "Deaprture": "'17:35:00"
    },
    {
       "routeNo": "6741",
-      "station": "MANPUL",
-      "Deaprture": "17:45:00"
+      "Sr": "4",
+      "station": "Manpul",
+      "Deaprture": "'17:45:00"
    },
    {
       "routeNo": "6741",
-      "station": "KITPAL",
-      "Deaprture": "18:00:00"
+      "Sr": "5",
+      "station": "Kitpal",
+      "Deaprture": "'18:00:00"
    },
    {
       "routeNo": "6741",
-      "station": "BADHARAN",
-      "Deaprture": "18:15:00"
+      "Sr": "6",
+      "station": "Badharan",
+      "Deaprture": "'18:15:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "1",
+      "station": "Pb Border",
+      "Deaprture": "'10:00:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "2",
+      "station": "Gagret",
+      "Deaprture": "'10:30:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "3",
+      "station": "Mubarkpur",
+      "Deaprture": "'10:40:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "4",
+      "station": "Amb",
+      "Deaprture": "'11:00:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "5",
+      "station": "Nehrian",
+      "Deaprture": "'11:10:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "6",
+      "station": "Jawar",
+      "Deaprture": "'11:50:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "7",
+      "station": "Kaloha",
+      "Deaprture": "'12:00:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "8",
+      "station": "Rakkar",
+      "Deaprture": "'12:10:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "9",
+      "station": "Chamukha",
+      "Deaprture": "'12:20:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "10",
+      "station": "Nadaun",
+      "Deaprture": "'12:50:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "11",
+      "station": "Sera Road",
+      "Deaprture": "'13:15:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "12",
+      "station": "Jasso",
+      "Deaprture": "'13:25:00"
+   },
+   {
+      "routeNo": "6743",
+      "Sr": "13",
+      "station": "Dhaneta",
+      "Deaprture": "'13:35:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "1",
+      "station": "Pb Border",
+      "Deaprture": "'12:10:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "2",
+      "station": "Bauri",
+      "Deaprture": "'12:30:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "3",
+      "station": "Gagret",
+      "Deaprture": "'12:40:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "4",
+      "station": "Amb",
+      "Deaprture": "'13:25:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "5",
+      "station": "Nadaun",
+      "Deaprture": "'14:30:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "6",
+      "station": "Kangoo",
+      "Deaprture": "'15:15:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "7",
+      "station": "Salouni",
+      "Deaprture": "'15:55:00"
+   },
+   {
+      "routeNo": "6745",
+      "Sr": "8",
+      "station": "Dhaned",
+      "Deaprture": "'18:30:00"
    }
+
 ]
